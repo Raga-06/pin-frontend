@@ -1,0 +1,1 @@
+import{f as t}from"./index-0o-5WqO2.js";const o={getCategories:()=>t.get("/discover/categories"),getTrending:e=>t.get("/discover/trending",{params:e}),getLatest:e=>t.get("/discover/latest",{params:e}),getRecommended:e=>t.get("/discover/recommended",{params:e})};export{o as d};
